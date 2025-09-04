@@ -5180,6 +5180,14 @@ List<Map<String, dynamic>> coursesData = [
   },
   {
     'courseCode': 'HSS',
+    'courseID': 'F379',
+    'courseTitle': 'Introduction to Philosophy of Science',
+    'courseCredits': '3',
+    'cdcList': [],
+    'delList': []
+  },
+  {
+    'courseCode': 'HSS',
     'courseID': 'F399',
     'courseTitle': 'Introduction to American Literature',
     'courseCredits': '3',
