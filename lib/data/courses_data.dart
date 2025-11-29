@@ -1229,7 +1229,7 @@ List<Map<String, dynamic>> coursesData = [
     'courseCode': 'BITS',
     'courseID': 'F421',
     'courseTitle': ' Thesis',
-    'courseCredits': '20',
+    'courseCredits': '16',
     'cdcList': [],
     'delList': []
   },
@@ -1237,7 +1237,7 @@ List<Map<String, dynamic>> coursesData = [
     'courseCode': 'BITS',
     'courseID': 'F422',
     'courseTitle': ' Thesis',
-    'courseCredits': '20',
+    'courseCredits': '16',
     'cdcList': [],
     'delList': []
   },
