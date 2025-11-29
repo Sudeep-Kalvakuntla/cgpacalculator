@@ -3868,6 +3868,14 @@ List<Map<String, dynamic>> coursesData = [
   },
   {
     'courseCode': 'EEE',
+    'courseID': 'F318',
+    'courseTitle': 'FPGA Based System Design',
+    'courseCredits': '3',
+    'cdcList': [],
+    'delList': ['AA', 'A3', 'A8']
+  },
+  {
+    'courseCode': 'EEE',
     'courseID': 'F341',
     'courseTitle': 'Analog Electronics',
     'courseCredits': '4',
@@ -4066,6 +4074,15 @@ List<Map<String, dynamic>> coursesData = [
     'cdcList': [],
     'delList': ['A3', 'A8']
   },
+  {
+    'courseCode': 'EEE',
+    'courseID': 'F437',
+    'courseTitle': 'Semiconductor Fabrication Technology',
+    'courseCredits': '4',
+    'cdcList': [],
+    'delList': ['A3', 'A8', 'AA']
+  },
+  
   {
     'courseCode': 'EEE',
     'courseID': 'F462',
@@ -6545,6 +6562,14 @@ List<Map<String, dynamic>> coursesData = [
     'courseCredits': '5',
     'cdcList': [],
     'delList': ['A4']
+  },
+  {
+    'courseCode': 'MEL',
+    'courseID': 'G621',
+    'courseTitle': 'VLSI Design',
+    'courseCredits': '5',
+    'cdcList': [],
+    'delList': ['AA', 'A8', 'A3']
   },
   {
     'courseCode': 'MF',
